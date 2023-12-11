@@ -1,0 +1,8 @@
+train_accuracy_mnb_f,0.4488
+val_accuracy_mnb_f,0.442
+test_accuracy_mnb_f,0.4455
+precision_mnb_f,0.41257583961501304
+recall_mnb_f,0.44287299732343194
+f1_mnb_f,0.39170922993195995
+kappa_mnb_f,0.13150631185031847
+confusion_matrix_mnb_f,"[[584, 438, 198], [81, 213, 39], [172, 181, 94]]"

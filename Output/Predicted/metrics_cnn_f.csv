@@ -1,0 +1,7 @@
+train_accuracy_cnn_f,0.5976666666666667
+val_accuracy_cnn_f,0.6146
+test_accuracy_cnn_f,0.5985
+precision_cnn_f,0.22916666666666666
+recall_cnn_f,0.3333333333333333
+f1_cnn_f,0.2716049382716049
+kappa_cnn_f,0.0
